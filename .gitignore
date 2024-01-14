@@ -1,0 +1,14 @@
+# Environments
+/venv
+.venv
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# directories
+/dev
+
+# python scripts
+__pycache__
+**__pycache__

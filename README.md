@@ -1,2 +1,4 @@
-# notas-aulas
-Anotações sobre estudos e cursos
+# Anotações sobre a biblioteca Selenium
+### Exemplos de uso e resumos da biblioteca selenium.
+
+[Documentação](https://www.selenium.dev/documentation/)
